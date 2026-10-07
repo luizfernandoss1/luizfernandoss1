@@ -1,16 +1,20 @@
-## Hi there 👋
+### Olá, eu sou o Luiz Fernando! 👋
 
-<!--
-**luizfernandoss1/luizfernandoss1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor em transição de carreira, atualmente cursando faculdade e focado em construir uma base técnica sólida, limpa e de alta qualidade. Minha jornada é guiada por disciplina, foco e pela busca constante de excelência em soluções reais através do código.
 
-Here are some ideas to get you started:
+### 🛠 Tecnologias e Ferramentas
+- **Linguagem Pricipal:** Python 🐍 (Foco total em lógica, manipulação de dados e automação)
+- **Desenvolvimento Web:** HTML5 (Conhecimentos fundamentais para integração)
+- **Ferrramentas de Trabalho:** VS Code, Git e GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Meu Momento e Objetivos 
+- 📚 **Foco Atual:** Dominar os ecossistemas Python e criar projetos completos, organizados e prontos para o mercado.
+- 🎯 **Planos Futuros:** Expandir meu leque técnico para linguagens robustas como Java e C após consolidar minha base atual.
+- 💼 **Diferencial:** Maturidade profissional, consistência na entrega, responsabilidade e resiliência para resolver problemas complexos.
+
+### 📈 Meu Repositório de Destaque
+- 🍽 [Sistema de Pedidos](https://github.com): Um esqueleto de sistema em Python estruturado para lançamentos de pedidos em esbelecimentos comerciais.
+
+### 📫 Contato 
+- 📧 **E-mail:** [luizf6189@gmail.com]
+- 💼 **LinkedIn:** *Em breve (Perfil em construção)*
