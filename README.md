@@ -12,8 +12,9 @@ Sou um desenvolvedor em transição de carreira, atualmente cursando faculdade e
 - 🎯 **Planos Futuros:** Expandir meu leque técnico para linguagens robustas como Java e C após consolidar minha base atual.
 - 💼 **Diferencial:** Maturidade profissional, consistência na entrega, responsabilidade e resiliência para resolver problemas complexos.
 
-### 📈 Meu Repositório de Destaque
+### 📈 Meus Repositórios de Destaque
 - 🍽 [Sistema de Pedidos](https://github.com): Um esqueleto de sistema em Python estruturado para lançamentos de pedidos em esbelecimentos comerciais.
+- 🏍 [Sistema_delivery](https://github.com): Um esqueleto de sistema em Python estruturado para alocar motoboys em uma fila, receber pedidos de comida, e direcionar os pedidos aos motoboys para entrega.
 
 ### 📫 Contato 
 - 📧 **E-mail:** [luizf6189@gmail.com]
