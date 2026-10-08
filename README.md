@@ -14,7 +14,7 @@ Sou um desenvolvedor em transição de carreira, atualmente cursando faculdade e
 
 ### 📈 Meus Repositórios de Destaque
 - 🍽 [Sistema de Pedidos](https://github.com): Um esqueleto de sistema em Python estruturado para lançamentos de pedidos em esbelecimentos comerciais.
-- 🏍 [Sistema_delivery_motoboy](https://github.com): Um esqueleto de sistema em Python estruturado para alocar motoboys em uma fila, receber pedidos de comida, e direcionar os pedidos aos motoboys para entrega.
+- 🏍 [Sistema_delivery_motoboy]([https://github.com](https://github.com/luizfernandoss1/sistema-delivery-motoboy)): Um esqueleto de sistema em Python estruturado para alocar motoboys em uma fila, receber pedidos de comida, e direcionar os pedidos aos motoboys para entrega.
 
 ### 📫 Contato 
 - 📧 **E-mail:** [luizf6189@gmail.com]
